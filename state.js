@@ -81,7 +81,7 @@ module.exports = {
       j: "CbgW", // max purchase
       m: "CbgW", // max range
       n: "rct", //set name
-      nl: "AlloyXustX Claim Token", //long set name
+      nl: "Babble Token Claim Token", //long set name
       o: "0000", // min definable range
       p: "ragnarok-claim-tokens-update", //permlink
       r: "0", //royalty
@@ -114,18 +114,15 @@ module.exports = {
     ms: {
       account: "alloyxuast-cc",
       active_account_auths: {
-        alloyxuast: 1,
         chisdealhd: 1,
       },
       active_threshold: 3,
       memo_key: "STM7ENRy7UsJs328k8T2kAq7zzvLUysPnfbquSZxCfxmCYxLH9Fym",
       owner_key_auths: {
-        STM5hbWR25EGaM3btUL7F1dR529EXHmCsxixuyq5m9WBDwCvV3mQL: 1,
         STM4xzEwbNBTXSkSTfiFK9VqMPHxsNr9SxFPrFfmrbok3AkbsG2dd: 1,
       },
       owner_threshold: 3,
       posting_account_auths: {
-        alloyxuast: 1,
         chisdealhd: 1,
       },
       posting_threshold: 1,
