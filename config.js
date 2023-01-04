@@ -48,7 +48,7 @@ const clients = ENV.clients || [
 
 //!!!!!!! -- THESE ARE COMMUNITY CONSTANTS -- !!!!!!!!!//
 //TOKEN CONFIGS -- ALL COMMUNITY RUNNERS NEED THESE SAME VALUES
-const starting_block = 71126091; //from what block does your token start
+const starting_block = 71126891; //from what block does your token start
 const prefix = 'babbletoken_' //Community token name for Custom Json IDs
 const TOKEN = 'BABBLE' //Token name
 const precision = 3 //precision of token
@@ -63,7 +63,7 @@ const msPubMemo = 'STM5Mt1HxyGgaRbytXdZoVy1QVdnXRrF9odNvSRAFJeLfT516Brmq' //memo
 const msPriMemo = '5JjfFgSAvpi8AA3TxyjopWXKaV4GT6h8CdDg1exJJZzjGDDX4MP'
 const msmeta = ''
 const mainAPI = 'babbletoken.babblebotchat.xyz' //leaders API probably
-const mainRender = 'alloyxdata.hivehoneycomb.com' //data and render server
+const mainRender = 'babbletoken.hivehoneycomb.com' //data and render server
 const mainFE = 'babblebotchat.xyz' //frontend for content
 const mainIPFS = 'a.ipfs.dlux.io' //IPFS service
 const mainICO = '' //Account collecting ICO HIVE
