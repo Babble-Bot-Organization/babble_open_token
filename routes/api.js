@@ -691,7 +691,7 @@ exports.runners = (req, res, next) => {
             result,
             runners,
             latest: [
-                {api: "https://alloyx.alloyxuast.co.uk"}
+                {api: "https://babbletoken.babblebotchat.xyz"}
             ],
             node: config.username,
             behind: RAM.behind,
@@ -1740,7 +1740,7 @@ exports.user = (req, res, next) => {
                     availible: {
                         "amount": parseInt(claim.Larynx) * 1000,
                         "precision": 3,
-                        "token": "ALLOYX",
+                        "token": "BABBLE",
                     }
                },//v[10],
                 poweredUp: v[1],
@@ -1763,7 +1763,7 @@ exports.user = (req, res, next) => {
                     availible: {
                         "amount": 0,
                         "precision": 3,
-                        "token": "ALLOYX"
+                        "token": "BABBLE"
                     }
                },//v[10],
                 poweredUp: v[1],
@@ -1787,7 +1787,7 @@ exports.user = (req, res, next) => {
                     availible: {
                         "amount": 0,
                         "precision": 3,
-                        "token": "ALLOYX"
+                        "token": "BABBLE"
                     }
                },//v[10],
                 poweredUp: v[1],
