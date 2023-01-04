@@ -70,9 +70,9 @@ const mainICO = '' //Account collecting ICO HIVE
 const footer = `` //`\n[Find us on Discord](https://bit.ly/discordragnarok)`;
 const hive_service_fee = 100 //HIVE service fee for transactions in Hive/HBD in centipercents (1% = 100)
 const features = {
-    pob: true, //proof of brain
+    pob: false, //proof of brain
     delegate: true, //delegation
-    daily: true, // daily post
+    daily: false, // daily post
     liquidity: false, //liquidity
     ico: false, //ico
     inflation: true,
